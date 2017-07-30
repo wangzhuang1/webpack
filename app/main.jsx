@@ -8,6 +8,7 @@ import { createStore,combineReducers } from 'redux'
 import { Provider } from 'react-redux';
 import reducers from './reducers'
 
+import "antd/dist/antd.less";
 const todoApp = combineReducers(reducers);
 
 import {extendComponent} from './Plugin';

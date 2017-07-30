@@ -7,8 +7,6 @@ import {fetchBannerList} from '../../actions/HomeAction';
 import './index.less';
 import Banner from '../../components/banner/';
 
-
-
 class Home extends Component{
 
     constructor(props, context) {

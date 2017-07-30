@@ -6,7 +6,7 @@ import {GET_BANNER_LIST} from './ActionTypes';
 import {rcAjax} from '../Plugin';
 
 export function fetchBannerList(dispatch){
-    return rcAjax('GET','',{
+    return rcAjax('GET','/sapi/index/newest/list.json',{
 
     },function(data){
         dispatch({ type: GET_BANNER_LIST, data:data});
