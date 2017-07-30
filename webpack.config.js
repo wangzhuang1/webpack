@@ -71,6 +71,17 @@ module.exports = {
     ],
     devServer: {
         disableHostCheck : true,
-
+        proxy: {
+            '/sapi/*': {
+                changeOrigin: true,
+                target: 'http://newshop.m.beta.yinyuetai.com/',
+                host: 'http://yinyuetai.com',
+            },
+            '/oapi/*': {
+                changeOrigin: true,
+                target: 'http://neworder.m.beta.yinyuetai.com/',
+                host: 'http://yinyuetai.com',
+            }
+        }
     }
 };
