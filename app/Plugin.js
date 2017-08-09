@@ -12,7 +12,7 @@ export function rcAjax(type,url,param,callback){
         url : url,
         data : param,
         success : function (msg) {
-            callback(msg);
+            callback(msg,1);
         }
     })
 }
