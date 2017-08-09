@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2eb770-a704-4431-8474-f6d79b157f56" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,10 +71,10 @@
             <state relative-caret-position="14235">
               <caret line="949" column="12" lean-forward="true" selection-start-line="949" selection-start-column="12" selection-end-line="949" selection-end-column="12" />
               <folding>
-                <marker date="1502300757000" expanded="true" signature="55895:55937" ph="..." />
-                <marker date="1502300757000" expanded="true" signature="55895:55955" ph="..." />
-                <marker date="1502300757000" expanded="true" signature="55895:55968" ph="..." />
-                <marker date="1502300757000" expanded="true" signature="55895:55983" ph="..." />
+                <marker date="1502300975000" expanded="true" signature="55895:55937" ph="..." />
+                <marker date="1502300975000" expanded="true" signature="55895:55955" ph="..." />
+                <marker date="1502300975000" expanded="true" signature="55895:55968" ph="..." />
+                <marker date="1502300975000" expanded="true" signature="55895:55983" ph="..." />
               </folding>
             </state>
           </provider>
@@ -677,7 +678,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1755000" />
+    <option name="totallyTimeSpent" value="1984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -953,10 +954,10 @@
         <state relative-caret-position="14235">
           <caret line="949" column="12" lean-forward="true" selection-start-line="949" selection-start-column="12" selection-end-line="949" selection-end-column="12" />
           <folding>
-            <marker date="1502300757000" expanded="true" signature="55895:55937" ph="..." />
-            <marker date="1502300757000" expanded="true" signature="55895:55955" ph="..." />
-            <marker date="1502300757000" expanded="true" signature="55895:55968" ph="..." />
-            <marker date="1502300757000" expanded="true" signature="55895:55983" ph="..." />
+            <marker date="1502300975000" expanded="true" signature="55895:55937" ph="..." />
+            <marker date="1502300975000" expanded="true" signature="55895:55955" ph="..." />
+            <marker date="1502300975000" expanded="true" signature="55895:55968" ph="..." />
+            <marker date="1502300975000" expanded="true" signature="55895:55983" ph="..." />
           </folding>
         </state>
       </provider>
