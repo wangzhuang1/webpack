@@ -67,10 +67,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="135">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding>
                 <marker date="1502301564000" expanded="true" signature="113:146" ph="..." />
+=======
+            <state relative-caret-position="15">
+              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14190">
+              <caret line="946" column="12" lean-forward="true" selection-start-line="946" selection-start-column="12" selection-end-line="946" selection-end-column="12" />
+              <folding>
+                <marker date="1502301497000" expanded="true" signature="55725:55767" ph="..." />
+                <marker date="1502301497000" expanded="true" signature="55725:55785" ph="..." />
+                <marker date="1502301497000" expanded="true" signature="55725:55798" ph="..." />
+                <marker date="1502301497000" expanded="true" signature="55725:55813" ph="..." />
+>>>>>>> 62d8418ccfc540ea79d69c4b83e17ab0fcdd94fb
               </folding>
             </state>
           </provider>
@@ -651,7 +671,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2662000" />
+=======
+    <option name="totallyTimeSpent" value="2739000" />
+>>>>>>> 62d8418ccfc540ea79d69c4b83e17ab0fcdd94fb
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -908,7 +932,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14190">
           <caret line="946" column="12" lean-forward="true" selection-start-line="946" selection-start-column="12" selection-end-line="946" selection-end-column="12" />
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1502301497000" expanded="true" signature="55725:55767" ph="..." />
+            <marker date="1502301497000" expanded="true" signature="55725:55785" ph="..." />
+            <marker date="1502301497000" expanded="true" signature="55725:55798" ph="..." />
+            <marker date="1502301497000" expanded="true" signature="55725:55813" ph="..." />
+          </folding>
+>>>>>>> 62d8418ccfc540ea79d69c4b83e17ab0fcdd94fb
         </state>
       </provider>
     </entry>
@@ -929,6 +962,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
@@ -951,6 +985,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+=======
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+>>>>>>> 62d8418ccfc540ea79d69c4b83e17ab0fcdd94fb
           <folding />
         </state>
       </provider>
